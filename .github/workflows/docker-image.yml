@@ -32,4 +32,4 @@ jobs:
         # context: ./path/to/
         # file: ./path/to/Dockerfile
         push: true
-        tags: edgaregonzalez/api-rest:latest # Cambia esto con tu nombre de usuario y nombre de imagen
+        tags: matiasolivar/clase33:latest # Cambia esto con tu nombre de usuario y nombre de imagen
